@@ -1,0 +1,49 @@
+2025-10-17 02:24:45.591 -04:00 [INF] Initializing Coplay services
+2025-10-17 02:24:45.603 -04:00 [INF] Initializing EditorThreadHelper
+2025-10-17 02:24:45.603 -04:00 [INF] EditorThreadHelper initialized successfully
+2025-10-17 02:24:45.610 -04:00 [INF] Enabling console error detection
+2025-10-17 02:24:45.620 -04:00 [INF] Found 0 errors via direct console query (cached)
+2025-10-17 02:24:45.620 -04:00 [INF] ConsoleDebugButtonService initializing
+2025-10-17 02:24:45.620 -04:00 [INF] Console debug button is enabled, adding button
+2025-10-17 02:24:45.620 -04:00 [INF] Enabling console debug button
+2025-10-17 02:24:45.620 -04:00 [INF] === Starting console button injection ===
+2025-10-17 02:24:45.620 -04:00 [INF] Found 1 console window instances
+2025-10-17 02:24:45.650 -04:00 [DBG] Console window found, attempting to add button
+2025-10-17 02:24:45.658 -04:00 [DBG] Initial error state: False
+2025-10-17 02:24:45.658 -04:00 [WRN] Could not find toolbar by child count, trying alternative search
+2025-10-17 02:24:45.660 -04:00 [DBG] Could not find console toolbar - adding button to root instead
+2025-10-17 02:24:45.660 -04:00 [DBG] Logo texture load result: null
+2025-10-17 02:24:45.660 -04:00 [DBG] Logo texture not loaded yet, will retry after small delay
+2025-10-17 02:24:45.672 -04:00 [INF] Debug button added with absolute positioning (centered), initial visibility: hidden
+2025-10-17 02:24:45.672 -04:00 [INF] Copy button added (always visible), initial position: near logo
+2025-10-17 02:24:45.672 -04:00 [DBG] UpdateButtonVisibility called - hasErrors: False, _debugButton: exists
+2025-10-17 02:24:45.672 -04:00 [INF] Debug With AI button successfully injected into console
+2025-10-17 02:24:45.672 -04:00 [INF] Subscribed to error detection
+2025-10-17 02:24:45.672 -04:00 [INF] ConsoleDebugButtonService initialized
+2025-10-17 02:24:47.990 -04:00 [INF] No existing action records JSON file found.
+2025-10-17 02:24:48.405 -04:00 [INF] Found 0 errors via direct console query (cached)
+2025-10-17 02:24:48.405 -04:00 [INF] No startup errors found after delayed check
+2025-10-17 02:24:48.410 -04:00 [DBG] Logo texture retry load result: success
+2025-10-17 02:24:48.410 -04:00 [INF] Coplay logo added (always visible) after retry
+2025-10-17 02:24:48.414 -04:00 [DBG] UpdateButtonVisibility called - hasErrors: False, _debugButton: exists
+2025-10-17 02:25:14.615 -04:00 [INF] Initializing Coplay services
+2025-10-17 02:25:14.625 -04:00 [INF] Initializing EditorThreadHelper
+2025-10-17 02:25:14.625 -04:00 [INF] EditorThreadHelper initialized successfully
+2025-10-17 02:25:14.634 -04:00 [INF] Enabling console error detection
+2025-10-17 02:25:14.644 -04:00 [INF] Found 0 errors via direct console query (cached)
+2025-10-17 02:25:14.644 -04:00 [INF] ConsoleDebugButtonService initializing
+2025-10-17 02:25:14.644 -04:00 [INF] Console debug button is enabled, adding button
+2025-10-17 02:25:14.644 -04:00 [INF] Enabling console debug button
+2025-10-17 02:25:14.644 -04:00 [INF] === Starting console button injection ===
+2025-10-17 02:25:14.644 -04:00 [INF] Found 0 console window instances
+2025-10-17 02:25:14.644 -04:00 [WRN] No console window instances found - console may not be open
+2025-10-17 02:25:14.644 -04:00 [INF] Subscribed to error detection
+2025-10-17 02:25:14.644 -04:00 [INF] ConsoleDebugButtonService initialized
+2025-10-17 02:25:18.257 -04:00 [INF] Found 0 errors via direct console query (cached)
+2025-10-17 02:25:18.257 -04:00 [INF] No startup errors found after delayed check
+2025-10-17 02:25:18.257 -04:00 [DBG] UpdateButtonVisibility called - hasErrors: False, _debugButton: null
+2025-10-17 02:25:18.257 -04:00 [DBG] Cannot update visibility - buttons are null
+2025-10-17 02:25:30.229 -04:00 [INF] Deinitializing Coplay services
+2025-10-17 02:25:30.230 -04:00 [INF] ConsoleDebugButtonService disposing
+2025-10-17 02:25:30.232 -04:00 [INF] Unsubscribed from error detection
+2025-10-17 02:25:30.233 -04:00 [INF] EditorThreadHelper disposed
